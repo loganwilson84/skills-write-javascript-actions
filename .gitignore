@@ -38,3 +38,6 @@ Thumbs.db
 
 # Override global .gitignore for this project
 !node_modules/
+!node_modules/**/*
+!/.github/actions/joke-action/node_modules/
+!/.github/actions/joke-action/node_modules/**/*
