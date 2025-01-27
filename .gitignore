@@ -35,3 +35,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Override global .gitignore for this project
+!node_modules/
